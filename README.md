@@ -1,7 +1,4 @@
-# Hi,there.
-I'll keep contributing.
-
-## Is there something?
-No there's nothing.
-
-# Wish you happy!
+# Intro
+My QQ number: 3487951815
+My Telegram : https://t.me/gffqss
+My blog     : xkh01.tk
