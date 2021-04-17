@@ -1,8 +1,8 @@
 # Intro
-QQ       : 3487951815
+QQ	:	3487951815
 
-快速会话 : https://wpa.qq.com/msgrd?v=3&uin=3487951815&site=qq&menu=yes
+快速会话	:	https://wpa.qq.com/msgrd?v=3&uin=3487951815&site=qq&menu=yes
 
-Telegram : https://t.me/gffqss
+Telegram	:	https://t.me/gffqss
 
-Blog     : https://xkh01.tk
+Blog	:	https://xkh01.tk
